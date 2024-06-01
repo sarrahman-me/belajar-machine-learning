@@ -1,0 +1,6 @@
+# file environment
+venv
+
+# model ml
+*.joblib
+.DS_Store
