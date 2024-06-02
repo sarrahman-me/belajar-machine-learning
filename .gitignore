@@ -4,3 +4,4 @@ venv
 # model ml
 *.joblib
 .DS_Store
+README.md
